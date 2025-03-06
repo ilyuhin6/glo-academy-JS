@@ -1,10 +1,6 @@
-let title ;
-let screens ;
-let screenPrice ;
-let rollback ;
-let fullPrice ;
-let adaptive ;
-
-alert('TEST');
-
-console.log('Helo World!');
+let title = 'Изучение JS' ;
+let screens = 'Простые, Сложные, Интерактивные' ;
+let screenPrice = 500 ;
+let rollback  = 10;
+let fullPrice = 5000 ;
+let adaptive = true ;
